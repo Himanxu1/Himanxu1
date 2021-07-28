@@ -4,7 +4,7 @@
 
 -👨‍💻From my childhood I was very Passionate about Technology and curious about how the things works .
 
--I am Curently in my First year of college
+-✔️I am Curently in my First year of college
 
 -🌱 I’m currently learning DSA 
 
