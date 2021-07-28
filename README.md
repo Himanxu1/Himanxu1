@@ -1,4 +1,9 @@
 ### Hi there 👋
+-I am Himanshu Singh Currently Pursuing Computer Science Engineering From Uttrakhand Technical University!
+-From my childhood I was very Passionate about Technology and curious about how the thnigs works .
+-I am Curently in my First year of college
+-🌱 I’m currently learning DSA 
+- I'm a community member of Community Classroom.
 
 <!--
 **Himanxu1/Himanxu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
