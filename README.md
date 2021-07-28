@@ -1,5 +1,5 @@
 ### Hi there 👋
--I am Himanshu Singh Currently Pursuing Computer Science Engineering From Uttrakhand Technical University!
+-🇨🇮I am Himanshu Singh Currently Pursuing Computer Science Engineering From Uttrakhand Technical University!
 
 
 -From my childhood I was very Passionate about Technology and curious about how the things works .
