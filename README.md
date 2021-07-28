@@ -12,7 +12,7 @@
 
 -📫 How to reach me 
 https://www.linkedin.com/in/himanshu-singh-692403202/
-<a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a>
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 
 
 <!--
