@@ -11,8 +11,11 @@
 -🤖I'm a community member of Community Classroom.
 
 -📫 How to reach me 
-https://www.linkedin.com/in/himanshu-singh-692403202/
-<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+
+
+
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>   https://www.linkedin.com/in/himanshu-singh-692403202/
+
 
 
 <!--
