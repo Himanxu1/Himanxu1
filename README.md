@@ -5,6 +5,9 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-692403202/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Himanxu31)
 
+## 🚀 About Me
+I'm a Good learing currently learning Web Development and DSA .
+
 -🇨🇮I am Himanshu Singh Currently Pursuing Computer Science Engineering From Uttrakhand Technical University!
 
 
