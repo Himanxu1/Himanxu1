@@ -2,14 +2,13 @@
 -I am Himanshu Singh Currently Pursuing Computer Science Engineering From Uttrakhand Technical University!
 
 
-
--From my childhood I was very Passionate about Technology and curious about how the thnigs works .
+-From my childhood I was very Passionate about Technology and curious about how the things works .
 
 -I am Curently in my First year of college
 
 -🌱 I’m currently learning DSA 
 
--I'm a community member of Community Classroom.
+-🤖I'm a community member of Community Classroom.
 
 -📫 How to reach me 
 https://www.linkedin.com/in/himanshu-singh-692403202/
