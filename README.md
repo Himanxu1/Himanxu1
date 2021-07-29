@@ -1,5 +1,5 @@
 ### Hi there 👋
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Himanxu1)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Himanxu1.visitor-badge)
 # Welcome to my Profile
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://himanshusingh.me/)
