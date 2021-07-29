@@ -29,7 +29,7 @@ Javascript, HTML, CSS.
 
 <img align="left" alt="Himanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Himanxu1&show_icons=true&hide_border=true&theme=dracula" />  
 
-<br>
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanxu1&layout=compact)](https://github.com/Himanxu1/github-readme-stats)
 
