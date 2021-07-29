@@ -1,5 +1,5 @@
 ### Hi there 👋
-/steam/views/:fileId
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Himanxu1)
 # Welcome to my Profile
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://himanshusingh.me/)
@@ -34,7 +34,7 @@ Javascript, HTML, CSS.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanxu1&layout=compact)](https://github.com/Himanxu1/github-readme-stats)
 
-   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Himanxu1)
+  
 
 <!--
 **Himanxu1/Himanxu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
