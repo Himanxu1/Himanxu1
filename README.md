@@ -25,8 +25,9 @@ I'm a Good learing currently learning Web Development and DSA .
 Javascript, HTML, CSS.
 
 ---
-<img align="left" alt="Himanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Himanxu1&show_icons=true&hide_border=true" />
+<img align="left" alt="Himanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Himanxu1&show_icons=true&hide_border=true&theme=dracula" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanxu1&layout=compact)](https://github.com/Himanxu1/github-readme-stats)
 
 <!--
 **Himanxu1/Himanxu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
