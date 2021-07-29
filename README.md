@@ -24,6 +24,9 @@ I'm a Good learing currently learning Web Development and DSA .
 ## 🛠 Skills
 Javascript, HTML, CSS.
 
+---
+<img align="left" alt="Himanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Himanxu1&show_icons=true&hide_border=true" />
+
 
 <!--
 **Himanxu1/Himanxu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
