@@ -1,5 +1,6 @@
-### Hi there 👋
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Himanxu1.visitor-badge)
+### ✨Hello Developers 🙌
+![](https://komarev.com/ghpvc/?username=Himanxu1&style=flat-square)
+
 # Welcome to my Profile
 ## 🔗 Connect With Me>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://himanshusingh.me/)
