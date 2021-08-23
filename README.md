@@ -9,14 +9,14 @@
 
 
 ## 🚀 About Me
-I'm a Good learing currently learning Web Development and DSA .
+I'm a Technopilic guys, who loves to spend time with Jarvis(Laptop)
 
 -🇨🇮I am Himanshu Singh Currently Pursuing Computer Science Engineering From Uttrakhand Technical University!
 
 
 -👨‍💻From my childhood I was very Passionate about Technology and curious about how the things works .
 
--✔️I am Curently in my First year of college
+-✔️I am Currently in my First year of college
 
 -🌱 I’m currently learning DSA 
 
@@ -44,7 +44,7 @@ I'm a Good learing currently learning Web Development and DSA .
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanxu1&layout=compact)](https://github.com/Himanxu1/github-readme-stats)
+
 
   
 
