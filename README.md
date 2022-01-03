@@ -16,9 +16,9 @@ I'm a Technopilic guys, who loves to spend time with Jarvis(Laptop)
 
 -👨‍💻From my childhood I was very Passionate about Technology and curious about how the things works .
 
--✔️I am Currently in my First year of college
+-✔️I am Currently in my Second year of college
 
--🌱 I’m currently learning DSA 
+-🌱 I’m currently learning Web Development and Mobile development.
 
 -🤖I'm a community member of Community Classroom.
 
