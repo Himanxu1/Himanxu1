@@ -1,19 +1,21 @@
 ### ✨Hello Developers 🙌
 ![](https://komarev.com/ghpvc/?username=Himanxu1&style=flat-square)
-![Hello](https://user-images.githubusercontent.com/80101755/155848010-e1732bb3-45d2-4620-bab7-0876251ecf30.png )
+![100261-wave (1)](https://user-images.githubusercontent.com/80101755/160290876-e4329709-7530-41f0-a663-d88c54b02621.gif)
+
+
 
 
 # Welcome to my Profile
-## 🔗 Connect With Me>
+
+## 🔗 Connect With Me
 [![@HimanshuSingh](https://img.shields.io/badge/@HimanshuSingh-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://himanshusingh.me/)
 [![@HimanshuSingh](https://img.shields.io/badge/@HimanshuSingh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-692403202/)
 [![@HimanshuSingh](https://img.shields.io/badge/@HimanshuSingh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Himanxu31)
 
 
 ## 🚀 About Me
-I'm a Technopilic guys, who loves to spend time with Jarvis(Laptop)
 
--🇨🇮I am Himanshu Singh Currently Pursuing Computer Science Engineering From Uttrakhand Technical University!
+-I am Himanshu Singh Currently Pursuing Computer Science Engineering From Uttrakhand Technical University!
 
 
 -👨‍💻From my childhood I was very Passionate about Technology and curious about how the things works .
