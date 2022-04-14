@@ -1,9 +1,5 @@
 ### ✨Hello Developers 🙌
 ![](https://komarev.com/ghpvc/?username=Himanxu1&style=flat-square)
-![100261-wave (1)](https://user-images.githubusercontent.com/80101755/160290876-e4329709-7530-41f0-a663-d88c54b02621.gif)
-
-
-
 
 # Welcome to my Profile
 
