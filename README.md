@@ -16,7 +16,7 @@
 
 -👨‍💻From my childhood I was very Passionate about Technology and curious about how the things works .
 
--✔️I am Currently in my Second year of college
+-✔️I am Currently in my Third year of college
 
 -🌱 I’m currently learning Web Development and Mobile development.
 
@@ -75,4 +75,4 @@ Here are some ideas to get you started:
 
 <!--  -->
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/Himanxu31)
+
