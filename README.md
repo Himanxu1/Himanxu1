@@ -13,14 +13,11 @@
 
 -I am Himanshu Singh Currently Pursuing Computer Science Engineering From Uttrakhand Technical University!
 
+-👨‍💻 Curious about how the things works .
 
--👨‍💻From my childhood I was very Passionate about Technology and curious about how the things works .
-
--✔️I am Currently in my Third year of college
+-✔️I am Currently working as Software engineer at @wherehouse.ioo
 
 -🌱 I’m currently learning Web Development and Mobile development.
-
--🤖I'm a community member of Community Classroom.
 
 -💬 Ask me about Technology?
 
