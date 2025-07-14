@@ -15,7 +15,7 @@
 
 -👨‍💻 Curious about how the things works .
 
--✔️I am Currently working as Software engineer at @wherehouse.ioo
+-✔️I am Currently working as Software engineer at @wherehouse.io
 
 -🌱 I’m currently learning Web Development and Mobile development.
 
