@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a **Software Engineer at [Wherehouse.io](https://wherehouse.io)**, passionate about building **scalable web & mobile applications**.  
+I’m a **Software Engineer  passionate about building **scalable web & mobile applications**.  
 
 - 🌱 Exploring **Web Dev | Mobile Dev | Generative AI**  
 - 🤝 Open to collaborating on **Full-Stack, SaaS & AI projects**  
