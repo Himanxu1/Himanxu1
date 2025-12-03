@@ -5,10 +5,10 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a **Software Engineer  passionate about building **scalable web & mobile applications**.  
+I’m a Software Engineer  passionate about building **scalable web & mobile applications**.  
 
-- 🌱 Exploring **Web Dev | Mobile Dev | Generative AI**  
-- 🤝 Open to collaborating on **Full-Stack, SaaS & AI projects**  
+- 🌱 Exploring **Web Dev | Mobile Dev | Generative AI  
+- 🤝 Open to collaborating on **Full-Stack, SaaS & AI projects  
 - 💬 Ask me about **JavaScript, React, Node.js & Full Stack Architecture**  
 
 ---
@@ -26,7 +26,6 @@ I’m a **Software Engineer  passionate about building **scalable web & mobile a
 - ⚛️ React  
 - ▲ Next.js  
 - 🎀 Tailwind CSS  
-- 📱 Flutter  
 
 ### 🔧 Backend  
 - 🟢 Node.js  
@@ -36,7 +35,7 @@ I’m a **Software Engineer  passionate about building **scalable web & mobile a
 
 ### 🧰 Tools & Platforms  
 - 🔗 Git & GitHub  
-- ☁️ Azure & Netlify  
+- ☁️ AWS & Netlify  
 
 ---
 
@@ -50,8 +49,8 @@ I’m a **Software Engineer  passionate about building **scalable web & mobile a
 ---
 
 ## 🎯 Fun Facts  
-- ⚡ Love solving problems & exploring **System Design**  
-- ✍️ Planning to write about **Dev, AI & Productivity**  
+- ⚡ Love solving problems & exploring System Design
+- ✍️ Planning to write about Dev, AI & Productivity  
 - ☕ Coffee keeps my code clean  
 
 ---
